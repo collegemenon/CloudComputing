@@ -1,0 +1,37 @@
+Steps:
+- First, open Notepad and write the following XML code in it.
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>W3Schools Home Page</title>
+ <link>https://www.w3schools.com</link>
+ <description>Free web building tutorials</description>
+ <item>
+ <title>RSS Tutorial</title>
+ <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+ <description>New RSS tutorial on W3Schools</description>
+ </item>
+ <item>
+ <title>XML Tutorial</title>
+ <link>https://www.w3schools.com/xml</link>
+ <description>New XML tutorial on W3Schools</description>
+ </item>
+</channel>
+</rss>
+- Save the as “practical7.xml”
+- Now open Chrome(If not Installed than install it and open)
+- Go to Link  https://chrome.google.com/webstore/detail/rss-subscriptionextensio
+                                       OR
+- Search for chrome.google.com and go to Extension
+
+- After that Open Visual Studio 2010 → New Project → Web Site → ASP.NET Website 
+- Now Copy-Paste the practical7.xml file in this project.
+- Open file “Default.aspx” and add a single line on it.
+<a href="practical7.xml">Test</a>
+
+- Now for Run the application
+- Chrome window will be appear
+
+
+- Select Test
+ - Final output

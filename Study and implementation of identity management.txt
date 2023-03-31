@@ -1,0 +1,17 @@
+Step 1: Open website https://www.pcloud.com/
+
+Step 2: Create an account using your email.
+
+Step 3: Verify your account.
+
+Step 4: Click on Upload to Upload files to your account.
+
+
+
+
+
+
+We can see the uploaded files.
+
+Conclusion:
+We have studied how to use pCloud for ensuring identity management of the users. We can create multiple groups and provide privileges to view or modify data as per defined permissions. It also enables simplified look and feel to be used by anyone.
